@@ -1,9 +1,13 @@
 Inject Challenge (Rubyist Badge)
 ================
 
+
+----------------
 ##Post-completion comments
+- This was a fun test of Ruby logic, the main challenge being how to get the Ruby code as clean and concise as possible - it was ultimately condensed down to 4 lines.
+- Testing was quite interesting to, it was the first time I'd tested an alternative version of an existing Ruby method. The approach was to compare the output of the new method with the existing one for each scenario. 
 
-
+----------------
 
 Instructions
 -------
